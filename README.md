@@ -4,7 +4,9 @@ A tiny microservice that makes adding authentication with Figma to your applicat
 
 ## Usage
 
-Running your own `micro-figma` is a single [`now`](https://now.sh) command away:
+[![Deploy to now](https://deploy.now.sh/static/button.svg)](https://deploy.now.sh/?repo=https://github.com/jongold/micro-figma&env=FIGMA_CLIENT_ID&env=FIGMA_CLIENT_SECRET&env=REDIRECT_URL)
+
+Or, if you're old fashioned:
 
 ```sh
 # Deploy this repository using now.sh
