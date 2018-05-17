@@ -1,0 +1,8 @@
+{
+  "env": {
+    "FIGMA_CLIENT_ID": "@figma-client-id",
+    "FIGMA_CLIENT_SECRET": "@figma-client-secret",
+    "FIGMA_HOST": "www.figma.com",
+    "REDIRECT_URL": "@redirect-url"
+  }
+}
